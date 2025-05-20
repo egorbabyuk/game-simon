@@ -1,0 +1,12 @@
+# ninja log v6
+11	2909	7683062575872434	combGame_autogen/timestamp	31cf6905c93c43a7
+11	2909	7683062575872434	combGame_autogen/mocs_compilation.cpp	31cf6905c93c43a7
+11	2909	7683062575872434	C:/Users/Egor/Documents/combGame/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/combGame_autogen/timestamp	31cf6905c93c43a7
+11	2909	7683062575872434	C:/Users/Egor/Documents/combGame/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/combGame_autogen/mocs_compilation.cpp	31cf6905c93c43a7
+2927	7617	7683062577009401	CMakeFiles/combGame.dir/startwindow.cpp.obj	543a651169b9f9ba
+2933	7641	7683062577059258	CMakeFiles/combGame.dir/simplecube.cpp.obj	988b6cb7d5d8145d
+2922	7730	7683062576949558	CMakeFiles/combGame.dir/main.cpp.obj	1736d24711913fdc
+2925	7773	7683062576979471	CMakeFiles/combGame.dir/mainwidget.cpp.obj	9b79934baf1bcb5d
+2919	8061	7683062576919635	CMakeFiles/combGame.dir/combGame_autogen/mocs_compilation.cpp.obj	4fbdf03f68071731
+2931	8450	7683062577039313	CMakeFiles/combGame.dir/game.cpp.obj	7f41431b0c1dbfea
+8451	8686	7683062632241724	combGame.exe	1374db88c377cd85
